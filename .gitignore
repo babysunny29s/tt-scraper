@@ -1,0 +1,8 @@
+.vscode/
+data crawled/
+__pycache__/
+*.log
+*.txt
+*.jpg
+
+
